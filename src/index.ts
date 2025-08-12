@@ -51,7 +51,7 @@ async function main() {
     if (!process.argv.slice(2).length) {
       program.outputHelp();
       console.log(chalk.dim('\n💡 Get started with: xrplsale auth login'));
-      console.log(chalk.dim('📚 Learn more: https://docs.xrpl.sale/cli'));
+      console.log(chalk.dim('📚 Learn more: https://xrpl.sale/docs/cli'));
     }
   } catch (error) {
     handleError(error);

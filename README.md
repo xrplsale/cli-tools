@@ -559,8 +559,8 @@ xrplsale completion fish > ~/.config/fish/completions/xrplsale.fish
 
 The CLI uses the same API as the platform SDKs. For detailed API documentation, visit:
 
-- [API Documentation](https://docs.xrpl.sale/api)
-- [CLI API Reference](https://docs.xrpl.sale/cli/api)
+- [API Documentation](https://xrpl.sale/docs/api)
+- [CLI API Reference](https://xrpl.sale/docs/cli/api)
 
 ## Troubleshooting
 
@@ -662,7 +662,7 @@ npm run test:coverage
 
 ## Support
 
-- 📖 [Documentation](https://docs.xrpl.sale/cli)
+- 📖 [Documentation](https://xrpl.sale/docs/cli)
 - 💬 [Discord Community](https://discord.gg/xrpl-sale)
 - 🐛 [Issue Tracker](https://github.com/xrplsale/cli-tools/issues)
 - 📧 [Email Support](mailto:developers@xrpl.sale)
@@ -674,8 +674,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Links
 
 - [XRPL.Sale Platform](https://xrpl.sale)
-- [API Documentation](https://docs.xrpl.sale/api)
-- [Other SDKs](https://docs.xrpl.sale/developers/sdk-downloads)
+- [API Documentation](https://xrpl.sale/docs/api)
+- [Other SDKs](https://xrpl.sale/docs/developers/sdk-downloads)
 - [GitHub Organization](https://github.com/xrplsale)
 
 ---
